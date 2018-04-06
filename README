@@ -1,0 +1,17 @@
+Copyright (C) 2014 Ayan Chakrabarti, William T. Freeman, Todd Zickler.
+
+This is a reference implementation of the algorithms described in our
+paper:
+
+Ayan Chakrabarti, William T. Freeman, and Todd Zickler, "Rethinking
+Color Cameras," Proceedings of the IEEE International Conference on
+Computational Photography, 2014.
+
+This source code is currently being made available for non-commercial
+research use only.
+
+Please run compile, and then look at demo.m for a how to use.
+
+The sample image is from the Gehler et al. database, reprocessed by
+Shi, as referred to in the paper. Please use this code only with
+linear images and not tone-mapped / gamma-corrected ones.
